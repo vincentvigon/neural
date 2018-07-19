@@ -1,0 +1,38 @@
+
+
+
+screen. Entrer: controle+A+esp
+screen -D -r  : restore
+
+vincent.vigon
+
+mivgpu1.u-strasbg.fr
+
+En cas de broken pipe
+mivgpu190.u-strasbg.fr
+
+pour voir les processeurs
+nvidia-smi
+
+
+pip3 install accessible à tous
+Installer l’environnement virtuel
+virtualEnv.
+
+activer l’env
+source ../../bin/activate
+python3 THE_BASIC_EXAMPLE.py
+
+
+
+
+
+__________
+
+Petite commande ssh bien pratique pour visualiser le tensorboard distant sur ta machine (A lancer en local) :
+
+ssh -N -f -L localhost:16006:localhost:6006 aabreu@mivgpu1.u-strasbg.fr
+
+
+
+Utiliser screen pour lancer plusieur terminaux, plusieur process sans qu'ils se détachent.

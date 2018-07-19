@@ -1,0 +1,72 @@
+
+
+MEMO de test
+
+
+
+
+Avec loss=matching_IoU
+
+
+12 lignes
+itr:280 loss -6.671863
+DURATION: 13.54980182647705
+
+
+40 lignes
+itr:290 loss -14.706444
+DURATION: 45.78119516372681
+
+
+12 lignes, batch_size=2
+itr:260 loss -0.972643
+DURATION: 12.869226932525635
+
+
+10 lignes, batch_size=10
+itr:260 loss -4.537688
+DURATION: 41.014925956726074
+
+
+
+
+
+le matching s'avère bien mieux que la formuel sum_i max_j
+
+
+Avec loss=invariant_IoU
+itr:290 loss -7.109152
+DURATION: 13.864851951599121
+
+itr:400 loss -13.431654
+DURATION: 61.8925838470459
+
+
+
+
+
+__________________
+
+
+    sans background
+    nb_instance_max=3
+
+    model.nbConsecutiveFit=10
+    model.learning_rate=1e-2
+    batchSize=50
+
+
+    loss = crossEntropy + 5 * invariantIoU
+    step: 83 loss: -104.075829 		 loss_crossEntropy 0.256304 		 loss_IoU -20.866426
+
+
+
+
+    loss = crossEntropy + 5 * simple_IoU
+    step: 83 loss: -71.881561 		 loss_crossEntropy 0.160221 	loss_correl_instances -14.376312
+
+
+_______________
+    loss = invariantIoU +  simple_IoU
+    invariantIoU -19.6357
+    loss: -34.079773 		 crossEntropy 0.098419 		 simpleIoU -14.444073

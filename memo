@@ -1,0 +1,10 @@
+
+sur les différentes convolutions layer. Notamment le la "transposed-convolution" et la "depthwise separable convolution"
+https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d
+
+implémentation de la "transposed-convolution" avec initialisation bilinéaire des weight
+http://cv-tricks.com/image-segmentation/transpose-convolution-in-tensorflow/
+
+
+expliction de la output_shape avec SAME ou VALID
+https://www.codeday.top/2017/10/08/48226.html

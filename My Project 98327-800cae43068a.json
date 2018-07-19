@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "valued-rigging-210420",
+  "private_key_id": "800cae43068adb1b792b42234c917e48daa041c1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDlS7/Gm9ILcIlc\nFI8IaqgO4ULeRF01VmjxVIGGyQecrDM/LpU4RHW9vSOg7lOQ542NO/rULSAGeP8h\n45f9eeQrM6i/kmYgrlUhmBx4HTLJg18HeNC2S8x3sNLdLO0c9RSiVhhR2GyA81My\nPHjor5ajuwn8GgCAJSL0UhiJ31Z53jhU8u1VE6soEXKcxq8FrhIWwGplHF9wP5xE\nT794+5r2tsJP2at+4E8XGv1AcjpEjyBPZaNXdm9Yui/kFSOdoqJER7/Ghzi2m8sF\nDgHEj1CqtSeNArIrNyEKxrlZRZc9Dw/+nZAAsT5Vv0wWxcs+W2pwQckQ5RVyu94t\nrjvD1TVfAgMBAAECggEAKkUUFfdsucolsFFj6s/Kqm+RZashqa8DypVjCWdu3U2L\nZvbd8FECiZdgBY9Z3WkqWaJ4g3vMHxVYJzWvM72wN9yem65P4G9y5y4E9YmgbrCm\nqJh3lVuU1m3E+ZwKHB/8DU8kzZXBruXsbOLkATU5ZnaZCR38AKOX9YVa27PN28on\noyoXQpUL/ZMHCQJBaFS0vZs2nxxqE/2UGGQx+v8quREAsH5DD1kI55eIcynusvLB\nzgkyX5cjp5jtYz9rG0c54dx1JYNXP7ucH7iTQJAYSUNe/sZmoLIwKr9X/yHe9l1w\nv6zESa3oAGTiZ6MZLPQYqwF0hp4UMuLmTcKv4XQ40QKBgQD68m6tkbgPRYNXrWT3\nmbrBQbwh0DIBN/hFH5uJac2myEEGdRddFmZITEoTdrUJZacDTS2HjgVwI/UGHu0W\ncB54uMEhccJuZ7/JGj+2vxuE0vK43tmSWVhrFnED4dZ9sbGryaWb8PcU9ki2wJEY\ntlL4OfZtcdgpAJdtwTwRig2ekQKBgQDp6bX7dJGuy0HHUiOyYyo/cIbhM8WW/QIv\n2SWb7GIjg4JrvMbp8l1k7yWK+36JZF6Dsm4s3ryK5ymEPsmv/j8HRO/KwWAXs2qz\nOSj7/g96Z36e54MTUOTTqdJss9vB02Z6snD/rKQvMZHAoFONm5MQlGTb04uIyDud\nyWosbSls7wKBgQCBpizeSbHBWhWQf8nxTiA5Zj/PbGPZU1RWSg0uglY4e690qZwH\ngOIZKij/Q04m67jMsNv787kFhd46alHtTMHBdxp4r/BW4A0q1f/i53tNNTsnniLk\nRHq04OREsDIDwIFdkpGYLndJAjDxEi4kiVX2XuPdCXs3O9IAZ1wkZ6G/sQKBgGkQ\n1fH9eRZXK9OYvHn6+tYF+D+dXookWOAfHDp+IdKr1mAIKhyZBYQ5utZDgqG52I41\nDjHPVkbZ8Bb7kOIhRDRCraaX106uAyY/bX5Krq8fX4uGl6SMeEvugpra6sGT7/r6\nvbDJ3fFoxXwNR5pan+MZlHf8/DbTIZwNBUixO6M3AoGBAKc96n0ZnoEwLHr43Crr\nrEe0Gl0B00pbfkwJsBIDfYndpX4RpZApcc4ET9/JBNTGZwEGGcMvAaPnQJcMongz\nI0qVN0RHgxCZ/CPC6vmj7piMJ9LRcbEUY4SZMoX+/0cHZyrhJOha6zJU4EKSGV1Y\nU5Tky9WRkwX3yXw5Gnb2acdB\n-----END PRIVATE KEY-----\n",
+  "client_email": "vincent@valued-rigging-210420.iam.gserviceaccount.com",
+  "client_id": "113844702984559773233",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vincent%40valued-rigging-210420.iam.gserviceaccount.com"
+}
